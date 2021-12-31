@@ -2,7 +2,7 @@
 - 👀 I’m interested in : neko
 - 🌱 I’m currently learning : many many
 - 💞️ I’m looking to collaborate on : many many
-- 📫 How to reach me : neko planet
+- 📫 Where to reach me : neko planet
 
 <!---
 nekoisbest/nekoisbest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
